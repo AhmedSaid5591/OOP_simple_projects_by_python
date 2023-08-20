@@ -56,7 +56,7 @@ while running:
 
     1. add new product
     2. export product
-    3. check specific commodity information
+    3. check specific product information
     4. Exit
     """)
 
